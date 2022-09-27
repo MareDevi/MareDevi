@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @MareDevi , a senior high school student.
+- 👋 Hi, I’m @MareDevi。
 
 - 👀 I’m interested in music,coding,and drawing.
 
-      I love rock and metal music.
+I love rock and metal music.
 
-      The bands I like are OOR, coldrain and so on.
-
+Sometimes I will coding something to play.
 
 
 <!---
