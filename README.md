@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in music,coding,and drawing.
 
-[![MareDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareDevi,theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![MareDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareDevi?theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 I love rock and metal music.
 
