@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @MareDevi。
+# Hi.Here is MareDevi!
 
-- 👀 I’m interested in music,coding,and drawing.
+- Just a ACG lover.
+- Crazy about Metal and Punk music.
+- OORer
 
 [![MareDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareDevi&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+## Moe Number
+![MareDevi]:(https://count.getloli.com/get/@maredevi?theme=moebooru-h)  
 
 <!---
 MareDevi/MareDevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
