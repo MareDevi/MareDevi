@@ -3,7 +3,7 @@
 - Just a ACG lover.
 - Crazy about Metal,Rock,J-POP,Anisong,VOCALOID music..
 
-[![MareDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareDevi&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![MareDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareDevi&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareDevi&layout=compact)
 
 ## Count Number
