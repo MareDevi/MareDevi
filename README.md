@@ -50,14 +50,13 @@ Sunday                   18 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 mins              ████████████████████████░   96.74 % 
-CMake                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +72,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2025 01:25:41 UTC
+ Last Updated on 26/01/2025 01:39:10 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
