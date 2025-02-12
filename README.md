@@ -15,8 +15,6 @@
 
 > 📦 73.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -50,13 +48,13 @@ Sunday                   18 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+conf                     13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +70,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2025 01:38:25 UTC
+ Last Updated on 12/02/2025 01:38:27 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
