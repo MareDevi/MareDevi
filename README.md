@@ -7,15 +7,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareDevi&layout=compact&theme=algolia)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.8 kB Used in GitHub's Storage 
- > 
-> 🏆 46 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,18 +48,18 @@ Sunday                   27 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-TypeScript               1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Rust                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Markdown                 2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.76 % 
+TypeScript               1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+Rust                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 14 mins       ████████████████░░░░░░░░░   64.23 % 
-Obsidian                 2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
+VS Code                  4 hrs 14 mins       ████████████████░░░░░░░░░   64.21 % 
+Obsidian                 2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.79 % 
 
 💻 Operating System: 
-Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +75,7 @@ Slint                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2025 01:52:02 UTC
+ Last Updated on 15/04/2025 01:50:46 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
