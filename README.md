@@ -7,8 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareDevi&layout=compact&theme=algolia)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -77,7 +75,7 @@ Slint                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 01:52:14 UTC
+ Last Updated on 03/05/2025 01:49:29 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
