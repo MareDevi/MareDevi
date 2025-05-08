@@ -7,13 +7,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareDevi&layout=compact&theme=algolia)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 63 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,16 +50,17 @@ Sunday                   31 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ██████████████████░░░░░░░   73.40 % 
-Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Python                   2 hrs 6 mins        ██████████████████████░░░   87.35 % 
+TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       ███████████████████░░░░░░   76.79 % 
-Obsidian                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+VS Code                  2 hrs 22 mins       █████████████████████████   98.48 % 
+Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Linux                    2 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +76,7 @@ Slint                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 01:53:28 UTC
+ Last Updated on 08/05/2025 01:54:11 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
