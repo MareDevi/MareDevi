@@ -7,17 +7,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareDevi&layout=compact&theme=algolia)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 374.9 kB Used in GitHub's Storage 
  > 
-> 🏆 252 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -75,7 +73,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2025 01:47:56 UTC
+ Last Updated on 10/09/2025 01:43:51 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
