@@ -7,6 +7,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareDevi&layout=compact&theme=algolia)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2058%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 374.9 kB Used in GitHub's Storage 
@@ -32,7 +34,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 01:44:13 UTC
+ Last Updated on 18/09/2025 01:43:43 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
