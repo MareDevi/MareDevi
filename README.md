@@ -7,6 +7,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareDevi&layout=compact&theme=algolia)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 375.0 kB Used in GitHub's Storage 
@@ -46,13 +48,15 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 46 mins       ████████████████████████░   95.15 % 
+Kotlin                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,7 +72,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2025 05:25:42 UTC
+ Last Updated on 28/11/2025 01:53:25 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
