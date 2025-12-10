@@ -3,8 +3,7 @@
 - Just a ACG lover.
 - Crazy about Metal,Rock,J-POP,Anisong,VOCALOID music..
 
-[![MareDevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MareDevi&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MareDevi&layout=compact&theme=algolia)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%207%20mins-blue)
