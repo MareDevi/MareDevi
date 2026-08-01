@@ -6,13 +6,13 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 405.1 kB Used in GitHub's Storage 
+> 📦 404.9 kB Used in GitHub's Storage 
  > 
 > 🏆 748 Contributions in the Year 2026
  > 
@@ -25,21 +25,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                635 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-🌆 Daytime                2512 commits        █████████░░░░░░░░░░░░░░░░   36.10 % 
-🌃 Evening                2819 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
-🌙 Night                  993 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+🌞 Morning                658 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+🌆 Daytime                2582 commits        █████████░░░░░░░░░░░░░░░░   36.03 % 
+🌃 Evening                2904 commits        ██████████░░░░░░░░░░░░░░░   40.52 % 
+🌙 Night                  1023 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   462 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Tuesday                  1534 commits        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-Wednesday                1043 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Thursday                 1434 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Friday                   1494 commits        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Saturday                 615 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Sunday                   377 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Monday                   469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Tuesday                  1590 commits        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Wednesday                1074 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Thursday                 1481 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Friday                   1539 commits        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Saturday                 630 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Sunday                   384 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 
@@ -49,16 +49,15 @@ Sunday                   377 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      46 mins             ████████████████████████░   94.62 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+C++                      1 hr 4 mins         ████████████████████████░   96.50 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-Neovim                   48 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    48 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,7 +79,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 03:30:05 UTC
+ Last Updated on 01/08/2026 03:27:47 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
