@@ -49,25 +49,25 @@ Sunday                   394 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     24 mins             ██████████░░░░░░░░░░░░░░░   40.02 % 
-TOML                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-C++                      11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Rust                     24 mins             ███████████░░░░░░░░░░░░░░   44.52 % 
+TOML                     14 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+C++                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 🔥 Editors: 
-Antigravity CLI          31 mins             █████████████░░░░░░░░░░░░   50.59 % 
-Neovim                   30 mins             ████████████░░░░░░░░░░░░░   49.41 % 
+Antigravity CLI          31 mins             ██████████████░░░░░░░░░░░   56.28 % 
+Neovim                   24 mins             ███████████░░░░░░░░░░░░░░   43.72 % 
 
 💻 Operating System: 
-Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
+Linux                    56 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (65.73%)
+⏱ AI Coding Time: 40 mins (73.13%)
 
-✍️ 5 lines written by AI, 44 lines written by hand (10.2% AI-written)
+✍️ 5 lines written by AI, 29 lines written by hand (14.71% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -78,10 +78,10 @@ Linux                    1 hr 2 mins         ███████████�
 Sonnet                   131 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.2% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 14.71% of written lines came from AI
 📝 Concise Prompter — average 157 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 24.73% of changed lines were hand-edited
+🚀 High AI Trust — 17.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +97,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 02:07:01 UTC
+ Last Updated on 10/08/2026 02:12:57 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
