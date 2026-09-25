@@ -49,13 +49,15 @@ Sunday                   513 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 15 mins             ██████████████████░░░░░░░   72.33 % 
+C++                      5 mins              ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +79,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 04:08:05 UTC
+ Last Updated on 25/09/2026 04:21:53 UTC
 <!--END_SECTION:waka-->
 
 ## Count Number
